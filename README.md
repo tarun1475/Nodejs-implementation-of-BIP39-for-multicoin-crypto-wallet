@@ -7,7 +7,7 @@
 ### [Introduction](#introduction) | [Library purposes](#library-purposes) | [Usage examples](#usage-examples) | [Installation](#installation) | [Docs](#docs) | [License](#license) | [Contacts](#support)
 
 ## Introduction
-We often use Bip39 to generate Mnemonic(Human readable digest) for bitcoin and other crypto wallets.There is a need of library which make use of BIP39 in use cases  like multicoin crypto wwallet and other application which are decoupled from blockchain.I have made use of both the best libraries to implement such kind of features.
+We often use Bip39 to generate Mnemonic(Human readable digest) for bitcoin and other crypto wallets.There is a need of a library which make use of BIP39 in use cases  like multicoin crypto wallet and other application which are external from blockchain.I have made use of both the best libraries to implement such kind of features.
 
 VirgilCrypto is a stack of security libraries (ECIES with Crypto Agility wrapped in Virgil Cryptogram) and an open-source high-level [cryptographic library](https://github.com/VirgilSecurity/virgil-crypto) that allows you to perform all necessary operations for securely storing and transferring data in your digital solutions. Crypto Library is written in C++ and is suitable for mobile and server platforms.
 
