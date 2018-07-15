@@ -1,4 +1,4 @@
-# Real use case of Bip39 with Virgil Security JavaScript Crypto Library 
+# BIP39 implementation for more useful use cases in nodejs
 
 [![Build Status](https://travis-ci.org/VirgilSecurity/virgil-crypto-javascript.svg)](https://travis-ci.org/VirgilSecurity/virgil-crypto-javascript) 
 [![npm](https://img.shields.io/npm/v/virgil-crypto.svg)](https://www.npmjs.com/package/virgil-crypto)
