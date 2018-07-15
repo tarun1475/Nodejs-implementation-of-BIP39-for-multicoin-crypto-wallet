@@ -48,6 +48,8 @@
     "update:asmjs": "node scripts/download-asmjs.js && node scripts/download-pythia-asmjs.js"
   },
   "dependencies": {
+    "bip39": "^2.5.0",
+    "hdkey": "^1.0.0",
     "node-fetch": "^2.1.2",
     "tar": "^4.4.2",
     "tempy": "^0.2.1",
